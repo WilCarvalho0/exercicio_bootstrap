@@ -1,0 +1,15 @@
+*{
+ padding: 20px;
+ width: 0 auto;
+ margin-left: 80px;
+ font-family: 'Caprasimo', cursive;
+}
+
+.post {
+    margin-bottom: 24px;
+}
+
+button {
+    margin-left: 400px;
+    width: 40%;
+}
